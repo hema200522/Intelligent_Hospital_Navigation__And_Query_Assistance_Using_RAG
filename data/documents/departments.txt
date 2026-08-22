@@ -1,0 +1,24 @@
+Hospital Departments
+
+Cardiology:
+Location: Second Floor, Room 201
+Working Hours: 9:00 AM to 5:00 PM
+Services: Diagnosis and treatment of heart-related conditions.
+
+Neurology:
+Location: Second Floor, Room 205
+Working Hours: 9:00 AM to 4:00 PM
+Services: Diagnosis and treatment of neurological conditions.
+
+Orthopedics:
+Location: First Floor, Room 105
+Working Hours: 9:00 AM to 5:00 PM
+Services: Bone and joint related consultation.
+
+Pharmacy:
+Location: Ground Floor, Room G12
+Working Hours: 8:00 AM to 9:00 PM
+
+Emergency Department:
+Location: Ground Floor, East Wing
+Working Hours: 24 hours.

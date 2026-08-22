@@ -1,0 +1,19 @@
+Hospital Doctors
+
+Dr. Ravi Kumar
+Department: Cardiology
+Room: 201
+Consultation Hours: 10:00 AM - 2:00 PM
+Days: Monday to Friday
+
+Dr. Priya Sharma
+Department: Neurology
+Room: 205
+Consultation Hours: 9:30 AM - 1:30 PM
+Days: Monday to Saturday
+
+Dr. Arun Kumar
+Department: Orthopedics
+Room: 105
+Consultation Hours: 10:00 AM - 3:00 PM
+Days: Monday to Friday

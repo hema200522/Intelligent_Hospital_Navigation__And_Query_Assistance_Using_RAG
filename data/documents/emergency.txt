@@ -1,0 +1,25 @@
+HOSPITAL EMERGENCY SERVICES
+
+Emergency Department:
+The Emergency Department provides emergency medical assistance 24 hours a day.
+
+Emergency Department Location:
+Ground Floor, East Wing.
+
+Emergency Entrance:
+The dedicated Emergency Entrance is connected directly to the Emergency Department.
+
+Emergency Services:
+The Emergency Department provides immediate medical assessment, first aid, emergency physician consultation, critical care support, and stabilization of emergency patients.
+
+Emergency Contact:
+For demonstration purposes, the emergency contact number used by CareCompass is 0866-2222111.
+
+Emergency Route:
+From the Main Entrance, proceed to Reception and then follow the signs toward the Emergency Department.
+
+Emergency Availability:
+Emergency services are available 24 hours a day, 7 days a week.
+
+Important:
+CareCompass provides hospital navigation and hospital information. It does not diagnose medical conditions or replace professional emergency medical care.

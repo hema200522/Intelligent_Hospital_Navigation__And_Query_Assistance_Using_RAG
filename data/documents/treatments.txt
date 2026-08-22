@@ -1,0 +1,17 @@
+HOSPITAL TREATMENTS
+
+Cardiology:
+
+The cardiology department provides diagnosis and treatment for heart-related conditions. Services include cardiac consultation, ECG, blood pressure monitoring, and heart disease evaluation.
+
+Neurology:
+
+The neurology department provides diagnosis and treatment for neurological conditions. Services include neurological consultation, headache evaluation, seizure evaluation, and nerve-related disorders.
+
+Orthopedics:
+
+The orthopedics department provides diagnosis and treatment for bone, joint, muscle, and ligament-related conditions.
+
+General Medicine:
+
+The general medicine department provides consultation for common illnesses, infections, fever, diabetes management, blood pressure management, and general health problems.
